@@ -35,7 +35,7 @@ Enter on comamnd line: `node liri.js concert-this <artist>`
  
 The key term: `concert-this` searches the Bands in town API for all available upcoming concerts for the artist. Retrievable Parameters include: venue, location, and date. The date will use Moment.JS to convert to desired format. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Concert-This Demo](https://github.com/tuayang/liri-node-app/blob/master/images/concert-this.jpg?raw=true)
 
 
 
