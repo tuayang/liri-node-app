@@ -35,7 +35,7 @@ Enter on comamnd line: `node liri.js concert-this <artist>`
  
 The key term: `concert-this` searches the Bands in town API for all available upcoming concerts for the artist. Retrievable Parameters include: venue, location, and date. The date will use Moment.JS to convert to desired format. 
 
-![Concert-This Demo](https://github.com/tuayang/liri-node-app/blob/master/images/concert-this.jpg?raw=true)
+![Concert-This demo](https://github.com/tuayang/liri-node-app/blob/master/images/concert-this.jpg?raw=true)
 
 
 
@@ -50,9 +50,9 @@ The key term: `spotify-this-song` retreives data from the Spotify API. All song 
 
 ###
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Spotify-this-song demo](https://github.com/tuayang/liri-node-app/blob/master/images/spotify-this-song.jpg?raw=true)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Spotify-this-song with no input](https://github.com/tuayang/liri-node-app/blob/master/images/spotify-this-song_no_input.jpg?raw=true)
 
 ***
 
@@ -62,9 +62,9 @@ Enter on command line: `node liri.js movie-this <movie title>`
  
 The key term: `movie-this` searches for film titles via the OMDb API. Retrievable Parameters include: movie title, release year, IMDB rating, Rotten Tomatoes rating, country or countries it was filmed in, langauge(s), plot, and actors. If there is no input, the function will return content for "Mr. Nobody".
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Movie-this demo](https://github.com/tuayang/liri-node-app/blob/master/images/movie-this.jpg?raw=true)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Movie-this with no input](https://github.com/tuayang/liri-node-app/blob/master/images/movie-this_no_input.jpg?raw=true)
 
 ***
 
@@ -74,6 +74,6 @@ Enter on command line: `node liri.js do-what-it-says`
 
 The key term: `do-what-it-says` is a command line input that executes content from the random.txt file. The default data is currently set to 'spotify-this-song, I Want It That Way'. The data set may be changed to 'concert-this, *artist name* or 'movie-this, movie title'. 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Do-what-it-says demo](https://github.com/tuayang/liri-node-app/blob/master/images/do-what-it-says.jpg?raw=true)
 
 ***
