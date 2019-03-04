@@ -20,15 +20,6 @@ The following Node packages must be installed:
 
 ## Running a Query
 
-There are four possible methods of searching for content. The key terms must be used:
-
-  * `concert-this` 
-  * `spotify-this-song`   
-  * `movie-this`   
-  * `do-what-it-says` 
-
-***
-
 **Concert-This**
 
 Enter on comamnd line: `node liri.js concert-this <artist>`
