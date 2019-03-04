@@ -22,7 +22,7 @@ The following Node packages must be installed:
 
 **Concert-This**
 
-Enter on comamnd line: `node liri.js concert-this <artist>`
+Enter on command line: `node liri.js concert-this <artist>`
  
 The key term: `concert-this` searches the Bands in town API for all available upcoming concerts for the artist. Retrievable Parameters include: venue, location, and date. The date will use Moment.JS to convert to desired format. 
 
@@ -63,7 +63,7 @@ The key term: `movie-this` searches for film titles via the OMDb API. Retrievabl
 
 Enter on command line: `node liri.js do-what-it-says`
 
-The key term: `do-what-it-says` is a command line input that executes content from the random.txt file. The default data is currently set to 'spotify-this-song, I Want It That Way'. The data set may be changed to 'concert-this, *artist name* or 'movie-this, movie title'. 
+The key term: `do-what-it-says` is a command line input that executes content from the random.txt file. The default data is currently set to 'spotify-this-song, I Want It That Way'. The data set may be changed to 'concert-this, *artist name* or 'movie-this, *movie title*'. 
 
 ![Do-what-it-says demo](https://github.com/tuayang/liri-node-app/blob/master/images/do-what-it-says.jpg?raw=true)
 
